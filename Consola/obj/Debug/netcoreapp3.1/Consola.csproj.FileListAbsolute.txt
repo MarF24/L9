@@ -1,0 +1,143 @@
+C:\Users\Joaquin\source\repos\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Joaquin\source\repos\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Joaquin\source\repos\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Joaquin\source\repos\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Joaquin\source\repos\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Joaquin\source\repos\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Joaquin\source\repos\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Joaquin\source\repos\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaquin\source\repos\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Joaquin\source\repos\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Joaquin\source\repos\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin\source\repos\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Joaquin\source\repos\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Joaquin\source\repos\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\Joaquin\source\repos\L7_E3\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Joaquin\source\repos\L7_E3\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Joaquin\source\repos\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L7_E3\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E1\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E2\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E3\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\Modelos ejercicios MVC\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\Multimedios\Desktop\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Multimedios\Desktop\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Multimedios\Desktop\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Multimedios\Desktop\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Multimedios\Desktop\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\L8_E4\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\L8_E4\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Multimedios\Desktop\L8_E4\Consola\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\Multimedios\Desktop\L8_E4\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Multimedios\Desktop\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Multimedios\Desktop\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedios\Desktop\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Multimedios\Desktop\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Multimedios\Desktop\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Multimedios\Desktop\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Multimedios\Desktop\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\L8_E4\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
+C:\Users\Multimedios\Desktop\L9_E2\Consola\bin\Debug\netcoreapp3.1\Consola.exe
+C:\Users\Multimedios\Desktop\L9_E2\Consola\bin\Debug\netcoreapp3.1\Consola.deps.json
+C:\Users\Multimedios\Desktop\L9_E2\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.json
+C:\Users\Multimedios\Desktop\L9_E2\Consola\bin\Debug\netcoreapp3.1\Consola.runtimeconfig.dev.json
+C:\Users\Multimedios\Desktop\L9_E2\Consola\bin\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\L9_E2\Consola\bin\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\L9_E2\Consola\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Multimedios\Desktop\L9_E2\Consola\bin\Debug\netcoreapp3.1\Utilidades.dll
+C:\Users\Multimedios\Desktop\L9_E2\Consola\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Multimedios\Desktop\L9_E2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.AssemblyReference.cache
+C:\Users\Multimedios\Desktop\L9_E2\Consola\obj\Debug\netcoreapp3.1\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedios\Desktop\L9_E2\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfoInputs.cache
+C:\Users\Multimedios\Desktop\L9_E2\Consola\obj\Debug\netcoreapp3.1\Consola.AssemblyInfo.cs
+C:\Users\Multimedios\Desktop\L9_E2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Multimedios\Desktop\L9_E2\Consola\obj\Debug\netcoreapp3.1\Consola.csproj.CopyComplete
+C:\Users\Multimedios\Desktop\L9_E2\Consola\obj\Debug\netcoreapp3.1\Consola.dll
+C:\Users\Multimedios\Desktop\L9_E2\Consola\obj\Debug\netcoreapp3.1\Consola.pdb
+C:\Users\Multimedios\Desktop\L9_E2\Consola\obj\Debug\netcoreapp3.1\Consola.genruntimeconfig.cache
